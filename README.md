@@ -4,9 +4,18 @@
 
 > 一个潜水员沉入海底，发现一座被遗忘的图书馆。书页变成鱼群游走，每本书打开都是一段发光的回忆。最后图书馆的灯一盏盏熄灭，潜水员带着一本书浮出海面。
 
-![九个镜头总览](exports/v7_镜头总览.png)
+![九个镜头总览](exports/v9_镜头总览.png)
 
-- 成片（压缩版）：[`exports_compressed/v9_深海图书馆_1080p24.mp4`](exports_compressed/)，1920×1080 / 24fps / 90s
+## ⬇ 下载成片
+
+到 **[Releases 页面](https://github.com/NonoKing123456/deep-sea-library/releases/latest)** 下载：
+
+- `deep-sea-library_v9_1080p24.mp4`：原画质，1920×1080 / 24fps / 90 秒，约 124MB
+- `deep-sea-library_v9_1080p24_compressed.mp4`：压缩版，约 36MB
+
+---
+
+- v1–v9 各版本的压缩版视频在 [`exports_compressed/`](exports_compressed/)
 - 分镜表：[STORYBOARD.md](STORYBOARD.md)
 - 制作过程、每个版本改了什么、自检发现的问题：[PROGRESS.md](PROGRESS.md)
 
