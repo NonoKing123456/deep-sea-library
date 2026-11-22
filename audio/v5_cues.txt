@@ -1,0 +1,49 @@
+  1.40s  gull
+  2.60s  helmet adjust clicks
+  3.70s  gull
+  4.25s  hands grip the gunwale
+  5.60s  splash
+  5.60s  bubbles+breath (splash burst)
+  6.80s  bubbles+breath (shot 1)
+  7.20s  gull
+  9.00s  bubbles+breath (shot 2)
+ 10.60s  fish school swish
+ 15.00s  helmet lamp click + flicker
+ 19.00s  bubbles+breath (shot 3 (far))
+ 21.00s  landing thud + sand
+ 22.90s  footsteps
+ 25.60s  library wakes: distant metallic bell + warm pad
+ 29.00s  bubbles+breath (shot 4)
+ 35.70s  book slides out of the shelf
+ 40.00s  bubbles+breath (shot 5 (close))
+ 40.45s  book opens
+ 41.60s  12 page flips (every 0.55s) + paper-fish flutter
+ 49.45s  big paper fish whoosh past the lens
+ 51.00s  cover opens
+ 51.60s  light shimmer from the pages
+ 53.50s  push into the light
+ 55.10s  chime 587Hz
+ 55.40s  memory: beach waves, gulls, kite
+ 56.10s  gull
+ 58.30s  gull
+ 59.80s  memory closes
+ 61.00s  bubbles+breath (shots 7–8)
+ 62.25s  chime 587Hz
+ 63.10s  chime 740Hz
+ 63.95s  chime 988Hz
+ 64.80s  chime 659Hz
+ 65.65s  chime 880Hz
+ 66.50s  chime 1175Hz
+ 67.35s  chime 1480Hz
+ 68.20s  chime 1319Hz
+ 68.40s  reaching for an orb: shimmer
+ 73.00s  10 lamp-off ticks (every 0.8s) + sparks
+ 82.00s  bubbles+breath (shot 9 ascent)
+ 87.00s  splash
+ 87.00s  breach
+ 88.00s  gull
+ 88.00s  chime 587Hz
+ 88.00s  title chimes
+ 88.35s  chime 740Hz
+ 88.70s  chime 880Hz
+ 89.00s  gull

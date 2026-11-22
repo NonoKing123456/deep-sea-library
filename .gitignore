@@ -1,0 +1,5 @@
+node_modules/
+# 原始画质导出（v5–v9 每个约 122MB，超过 GitHub 单文件 100MB 上限）；仓库里放的是 exports_compressed/ 的压缩版
+exports/*.mp4
+# 音频 WAV 可由 src/audio.js 重新生成；成片里已包含 AAC 音轨
+audio/*.wav
